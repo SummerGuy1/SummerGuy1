@@ -2,9 +2,6 @@
 
 I'm SummerGuy (he/him/his), a full time software developer and full-stack web developer with a passion for the outdoors. 🍃
 
-#### You can find me on
-[![Instagram](https://www.instagram.com/whois.elvin/)
-
 #### I'm currently working with
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-511C74?style=flat-square&logo=dotnet&logoColor=white)
