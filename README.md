@@ -13,5 +13,6 @@ I'm SummerGuy (he/him/his), a full time software developer and full-stack web de
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 #### Current stats
-[![SummerGuy Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvin08&theme=blue-green)](https://github.com/SummerGuy1/github-readme-stats)
+[![SummerGuy Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattu08&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 [![SummerGuy GitHub stats](https://github-readme-stats.vercel.app/api?username=elvin08&theme=blue-green)](https://github.com/SummerGuy1/github-readme-stats)
